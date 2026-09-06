@@ -1,0 +1,17 @@
+Chloe Nguyen
+Frontend Engineer | 4 years of experience
+
+SUMMARY
+Frontend Engineer focused on accessible dashboards and design systems. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+Frontend Engineer, Innovation Labs (2018-Present)
+- Delivered production systems for accessible dashboards and design systems.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: JavaScript, TypeScript, React, Vue, CSS.
+
+EDUCATION
+BFA Interaction Design
+
+SKILLS
+JavaScript, TypeScript, React, Vue, CSS

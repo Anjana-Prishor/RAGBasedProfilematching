@@ -1,0 +1,17 @@
+Zachary King
+API Engineer | 4 years of experience
+
+SUMMARY
+API Engineer focused on secure REST and event APIs. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+API Engineer, Innovation Labs (2018-Present)
+- Delivered production systems for secure REST and event APIs.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: Node, Express, REST API, MongoDB, Docker.
+
+EDUCATION
+BSc Software Engineering
+
+SKILLS
+Node, Express, REST API, MongoDB, Docker

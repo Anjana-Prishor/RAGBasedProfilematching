@@ -1,0 +1,17 @@
+Owen Brooks
+Database Administrator | 10 years of experience
+
+SUMMARY
+Database Administrator focused on database reliability and performance tuning. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+Database Administrator, Innovation Labs (2018-Present)
+- Delivered production systems for database reliability and performance tuning.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: PostgreSQL, MySQL, Oracle, Linux, Backup.
+
+EDUCATION
+BSc Information Systems
+
+SKILLS
+PostgreSQL, MySQL, Oracle, Linux, Backup

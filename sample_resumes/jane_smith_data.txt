@@ -1,0 +1,27 @@
+
+JANE SMITH
+jane.smith@email.com
+
+PROFILE
+Data Engineer with 5+ years of experience building scalable data pipelines and analytics platforms.
+
+EXPERIENCE
+Senior Data Engineer, CloudData Inc (2022-Present)
+- Architected data lake processing 500GB+ daily using Apache Spark
+- Reduced data processing time by 40% through pipeline optimization
+- Technologies: Spark, Airflow, Snowflake, AWS S3, Python
+
+Data Engineer, Analytics Hub (2019-2022)
+- Built ETL pipelines using Apache Airflow for real-time data processing
+- Managed large-scale databases with millions of records
+- Technologies: Python, Airflow, PostgreSQL, Tableau, SQL
+
+EDUCATION
+Master of Engineering in Data Science, Tech Institute (2017)
+Bachelor of Science in Statistics, State College (2015)
+
+SKILLS
+Programming: Python, SQL, Java, Scala
+Data Technologies: Spark, Hadoop, Kafka, Airflow, dbt
+Databases: PostgreSQL, MongoDB, Cassandra, Snowflake
+Cloud: AWS, Azure, GCP

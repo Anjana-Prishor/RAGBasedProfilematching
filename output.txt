@@ -1,0 +1,30 @@
+RAG-BASED PROFILE MATCHING - RECORDING SCRIPT
+
+[INTRODUCTION]
+This system processes resumes and matches candidates to job descriptions using a complete RAG workflow.
+
+[PART A: RESUME PROCESSING]
+The system successfully processed 33 resumes and created 166 document chunks.
+It extracts candidate names, skills, years of experience, education, and resume sections.
+The section-aware chunks preserve context for accurate retrieval and explanations.
+
+[PART B: JOB MATCHING]
+The matching engine processed 3 job descriptions.
+It combines semantic relevance and keyword matching with configurable weights.
+It also applies skill filters, must-have requirements, and experience-level matching.
+
+[MATCH RESULTS]
+Each result includes an overall score, semantic score, keyword score, matched skills, missing skills, and experience compatibility.
+The section contribution analysis shows which parts of each resume influenced the match.
+The reasoning and relevant excerpts make the ranking explainable.
+
+[FILTERING]
+The system supports recruiter-style filtering by required skills and minimum experience.
+This helps narrow the candidate pool before reviewing ranked results.
+
+[JSON OUTPUT]
+The system also generates structured JSON reports suitable for APIs or downstream storage.
+
+[CONCLUSION]
+The complete workflow generated 7 candidate-job matches.
+This demonstrates resume ingestion, retrieval, ranking, filtering, and explainable job matching in one system.

@@ -1,0 +1,17 @@
+Uma Nair
+Analytics Engineer | 4 years of experience
+
+SUMMARY
+Analytics Engineer focused on trusted metrics layers and reporting. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+Analytics Engineer, Innovation Labs (2018-Present)
+- Delivered production systems for trusted metrics layers and reporting.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: SQL, dbt, Snowflake, Python, Looker.
+
+EDUCATION
+BSc Mathematics
+
+SKILLS
+SQL, dbt, Snowflake, Python, Looker

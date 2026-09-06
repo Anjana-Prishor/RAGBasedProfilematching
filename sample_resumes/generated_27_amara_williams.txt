@@ -1,0 +1,17 @@
+Amara Williams
+Cloud Security Analyst | 6 years of experience
+
+SUMMARY
+Cloud Security Analyst focused on identity controls and cloud compliance. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+Cloud Security Analyst, Innovation Labs (2018-Present)
+- Delivered production systems for identity controls and cloud compliance.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: AWS, Azure, IAM, Python, SIEM.
+
+EDUCATION
+BSc Cybersecurity
+
+SKILLS
+AWS, Azure, IAM, Python, SIEM

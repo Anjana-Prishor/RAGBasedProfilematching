@@ -1,0 +1,17 @@
+George Wilson
+Security Engineer | 9 years of experience
+
+SUMMARY
+Security Engineer focused on cloud security monitoring and incident response. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+Security Engineer, Innovation Labs (2018-Present)
+- Delivered production systems for cloud security monitoring and incident response.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: Python, Linux, AWS, SIEM, Threat Modeling.
+
+EDUCATION
+BSc Cybersecurity
+
+SKILLS
+Python, Linux, AWS, SIEM, Threat Modeling

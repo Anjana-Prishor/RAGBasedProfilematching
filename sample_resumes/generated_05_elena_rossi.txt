@@ -1,0 +1,17 @@
+Elena Rossi
+Cloud Engineer | 8 years of experience
+
+SUMMARY
+Cloud Engineer focused on multi-account cloud platforms and infrastructure automation. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+Cloud Engineer, Innovation Labs (2018-Present)
+- Delivered production systems for multi-account cloud platforms and infrastructure automation.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: AWS, Terraform, Kubernetes, Linux, Python.
+
+EDUCATION
+MSc Information Systems
+
+SKILLS
+AWS, Terraform, Kubernetes, Linux, Python

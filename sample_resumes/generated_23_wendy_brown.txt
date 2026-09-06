@@ -1,0 +1,17 @@
+Wendy Brown
+Platform Engineer | 9 years of experience
+
+SUMMARY
+Platform Engineer focused on internal developer platforms. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+Platform Engineer, Innovation Labs (2018-Present)
+- Delivered production systems for internal developer platforms.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: Go, Kubernetes, Terraform, AWS, Linux.
+
+EDUCATION
+MSc Cloud Computing
+
+SKILLS
+Go, Kubernetes, Terraform, AWS, Linux

@@ -1,0 +1,17 @@
+Ibrahim Diallo
+DevOps Engineer | 6 years of experience
+
+SUMMARY
+DevOps Engineer focused on continuous delivery and observability platforms. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+DevOps Engineer, Innovation Labs (2018-Present)
+- Delivered production systems for continuous delivery and observability platforms.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: Docker, Kubernetes, Jenkins, Terraform, AWS.
+
+EDUCATION
+BSc Computer Science
+
+SKILLS
+Docker, Kubernetes, Jenkins, Terraform, AWS

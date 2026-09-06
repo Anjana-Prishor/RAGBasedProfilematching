@@ -1,0 +1,17 @@
+Hana Suzuki
+QA Automation Engineer | 5 years of experience
+
+SUMMARY
+QA Automation Engineer focused on reliable web and API test automation. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+QA Automation Engineer, Innovation Labs (2018-Present)
+- Delivered production systems for reliable web and API test automation.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: Python, Selenium, Cypress, API Testing, Jenkins.
+
+EDUCATION
+BSc Information Technology
+
+SKILLS
+Python, Selenium, Cypress, API Testing, Jenkins

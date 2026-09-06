@@ -1,0 +1,17 @@
+Celeste Kim
+BI Developer | 5 years of experience
+
+SUMMARY
+BI Developer focused on executive reporting and operational dashboards. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+BI Developer, Innovation Labs (2018-Present)
+- Delivered production systems for executive reporting and operational dashboards.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: SQL, Power BI, DAX, Azure, ETL.
+
+EDUCATION
+BSc Business Analytics
+
+SKILLS
+SQL, Power BI, DAX, Azure, ETL

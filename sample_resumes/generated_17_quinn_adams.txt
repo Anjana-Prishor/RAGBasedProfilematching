@@ -1,0 +1,17 @@
+Quinn Adams
+Computer Vision Engineer | 6 years of experience
+
+SUMMARY
+Computer Vision Engineer focused on industrial image inspection systems. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+Computer Vision Engineer, Innovation Labs (2018-Present)
+- Delivered production systems for industrial image inspection systems.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: Python, OpenCV, PyTorch, Computer Vision, C++.
+
+EDUCATION
+MSc Robotics
+
+SKILLS
+Python, OpenCV, PyTorch, Computer Vision, C++

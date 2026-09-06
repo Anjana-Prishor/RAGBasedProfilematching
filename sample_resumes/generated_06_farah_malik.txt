@@ -1,0 +1,17 @@
+Farah Malik
+Product Analyst | 3 years of experience
+
+SUMMARY
+Product Analyst focused on funnel analysis and product experimentation. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+Product Analyst, Innovation Labs (2018-Present)
+- Delivered production systems for funnel analysis and product experimentation.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: SQL, Python, Tableau, Excel, A/B Testing.
+
+EDUCATION
+BSc Statistics
+
+SKILLS
+SQL, Python, Tableau, Excel, A/B Testing

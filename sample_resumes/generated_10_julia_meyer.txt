@@ -1,0 +1,17 @@
+Julia Meyer
+Mobile Engineer | 4 years of experience
+
+SUMMARY
+Mobile Engineer focused on offline-first Android applications. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+Mobile Engineer, Innovation Labs (2018-Present)
+- Delivered production systems for offline-first Android applications.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: Kotlin, Android, Java, Firebase, REST API.
+
+EDUCATION
+BSc Computer Science
+
+SKILLS
+Kotlin, Android, Java, Firebase, REST API

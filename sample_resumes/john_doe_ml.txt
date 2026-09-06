@@ -1,0 +1,27 @@
+
+JOHN DOE
+john.doe@email.com
+
+SUMMARY
+Senior Machine Learning Engineer with 6+ years of experience in building and deploying ML models.
+
+EXPERIENCE
+Senior ML Engineer, TechCorp (2021-Present)
+- Developed recommendation system using collaborative filtering and NLP
+- Led team of 3 engineers in building production ML pipeline
+- Tech Stack: Python, TensorFlow, PyTorch, AWS, Docker
+
+ML Engineer, DataSolutions (2018-2021)
+- Built computer vision models for image classification achieving 95% accuracy
+- Implemented data pipeline processing 10M+ records daily
+- Tech Stack: Python, OpenCV, Scikit-learn, PostgreSQL, GCP
+
+EDUCATION
+Master of Science in Computer Science, University of California (2016)
+Bachelor of Science in Information Technology, State University (2014)
+
+SKILLS
+Programming Languages: Python, Java, JavaScript, SQL
+ML/AI: TensorFlow, PyTorch, Scikit-learn, Keras, NLP, Computer Vision
+Cloud & DevOps: AWS, GCP, Docker, Kubernetes
+Databases: PostgreSQL, MongoDB, Redis

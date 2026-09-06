@@ -1,0 +1,59 @@
+{
+  "system_config": {
+    "embedding_model": "all-MiniLM-L6-v2",
+    "chunk_size": 300,
+    "chunk_overlap": 50,
+    "database_path": "./chroma_db",
+    "collection_name": "resumes"
+  },
+  "embedding_models": {
+    "all-MiniLM-L6-v2": {
+      "dimension": 384,
+      "speed": "fast",
+      "quality": "good",
+      "description": "Fast model suitable for general purpose embedding"
+    },
+    "all-mpnet-base-v2": {
+      "dimension": 768,
+      "speed": "medium",
+      "quality": "better",
+      "description": "Better quality embeddings, slightly slower"
+    },
+    "paraphrase-MiniLM-L6-v2": {
+      "dimension": 384,
+      "speed": "fast",
+      "quality": "good",
+      "description": "Good for paraphrase and semantic similarity"
+    }
+  },
+  "chunking_strategies": {
+    "section_aware": {
+      "description": "Preserves document sections during chunking",
+      "chunk_size": 300,
+      "overlap": 50
+    },
+    "aggressive": {
+      "description": "Larger chunks for broader context",
+      "chunk_size": 500,
+      "overlap": 100
+    },
+    "granular": {
+      "description": "Smaller chunks for precise retrieval",
+      "chunk_size": 150,
+      "overlap": 25
+    }
+  },
+  "metadata_fields": [
+    "name",
+    "skills",
+    "experience_years",
+    "education",
+    "file_path"
+  ],
+  "supported_file_formats": [".pdf", ".docx", ".txt"],
+  "performance_targets": {
+    "embedding_latency_ms": 100,
+    "retrieval_latency_ms": 50,
+    "accuracy_target": 0.85
+  }
+}

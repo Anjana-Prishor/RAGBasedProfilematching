@@ -1,0 +1,17 @@
+Yara Hassan
+ETL Developer | 5 years of experience
+
+SUMMARY
+ETL Developer focused on batch ingestion and data quality. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+ETL Developer, Innovation Labs (2018-Present)
+- Delivered production systems for batch ingestion and data quality.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: SQL, Python, Airflow, Spark, Azure.
+
+EDUCATION
+BSc Data Engineering
+
+SKILLS
+SQL, Python, Airflow, Spark, Azure

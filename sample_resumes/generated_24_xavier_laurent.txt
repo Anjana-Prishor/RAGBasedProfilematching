@@ -1,0 +1,17 @@
+Xavier Laurent
+Applied Scientist | 8 years of experience
+
+SUMMARY
+Applied Scientist focused on ranking models and applied experimentation. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+Applied Scientist, Innovation Labs (2018-Present)
+- Delivered production systems for ranking models and applied experimentation.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: Python, TensorFlow, Deep Learning, NLP, AWS.
+
+EDUCATION
+PhD Machine Learning
+
+SKILLS
+Python, TensorFlow, Deep Learning, NLP, AWS

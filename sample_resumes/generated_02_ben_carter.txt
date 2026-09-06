@@ -1,0 +1,17 @@
+Ben Carter
+Data Engineer | 7 years of experience
+
+SUMMARY
+Data Engineer focused on batch pipelines and warehouse modeling. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+Data Engineer, Innovation Labs (2018-Present)
+- Delivered production systems for batch pipelines and warehouse modeling.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: Python, SQL, Spark, Airflow, Snowflake.
+
+EDUCATION
+BSc Software Engineering
+
+SKILLS
+Python, SQL, Spark, Airflow, Snowflake

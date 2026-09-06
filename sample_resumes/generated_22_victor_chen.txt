@@ -1,0 +1,17 @@
+Victor Chen
+React Developer | 3 years of experience
+
+SUMMARY
+React Developer focused on responsive component libraries. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+React Developer, Innovation Labs (2018-Present)
+- Delivered production systems for responsive component libraries.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: React, JavaScript, TypeScript, Jest, Git.
+
+EDUCATION
+BSc Web Development
+
+SKILLS
+React, JavaScript, TypeScript, Jest, Git

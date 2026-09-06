@@ -1,0 +1,17 @@
+Nora Singh
+NLP Researcher | 4 years of experience
+
+SUMMARY
+NLP Researcher focused on information extraction and language models. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+NLP Researcher, Innovation Labs (2018-Present)
+- Delivered production systems for information extraction and language models.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: Python, PyTorch, NLP, Transformers, Research.
+
+EDUCATION
+PhD Computational Linguistics
+
+SKILLS
+Python, PyTorch, NLP, Transformers, Research

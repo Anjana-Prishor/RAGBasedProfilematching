@@ -1,0 +1,17 @@
+Kai Thompson
+Data Scientist | 5 years of experience
+
+SUMMARY
+Data Scientist focused on forecasting and customer segmentation. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+Data Scientist, Innovation Labs (2018-Present)
+- Delivered production systems for forecasting and customer segmentation.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: Python, Pandas, Scikit-Learn, SQL, Machine Learning.
+
+EDUCATION
+MSc Data Science
+
+SKILLS
+Python, Pandas, Scikit-Learn, SQL, Machine Learning

@@ -1,0 +1,17 @@
+Theo Martin
+Java Developer | 6 years of experience
+
+SUMMARY
+Java Developer focused on financial transaction services. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+Java Developer, Innovation Labs (2018-Present)
+- Delivered production systems for financial transaction services.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: Java, Spring, Kafka, SQL, Microservices.
+
+EDUCATION
+BSc Computer Science
+
+SKILLS
+Java, Spring, Kafka, SQL, Microservices

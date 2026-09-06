@@ -1,0 +1,17 @@
+Ravi Patel
+Site Reliability Engineer | 7 years of experience
+
+SUMMARY
+Site Reliability Engineer focused on reliable distributed services and observability. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+Site Reliability Engineer, Innovation Labs (2018-Present)
+- Delivered production systems for reliable distributed services and observability.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: Kubernetes, Prometheus, Grafana, Go, Linux.
+
+EDUCATION
+BEng Software Engineering
+
+SKILLS
+Kubernetes, Prometheus, Grafana, Go, Linux

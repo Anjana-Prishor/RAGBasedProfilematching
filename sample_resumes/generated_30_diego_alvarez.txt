@@ -1,0 +1,17 @@
+Diego Alvarez
+ML Platform Engineer | 7 years of experience
+
+SUMMARY
+ML Platform Engineer focused on reproducible machine learning operations. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+ML Platform Engineer, Innovation Labs (2018-Present)
+- Delivered production systems for reproducible machine learning operations.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: Python, Kubernetes, MLflow, Docker, AWS.
+
+EDUCATION
+MEng Artificial Intelligence
+
+SKILLS
+Python, Kubernetes, MLflow, Docker, AWS

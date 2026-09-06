@@ -1,0 +1,27 @@
+
+ALICE KUMAR
+alice.kumar@email.com
+
+SUMMARY
+Full Stack Developer with 4+ years of experience building responsive web applications.
+
+EXPERIENCE
+Full Stack Engineer, WebSolutions (2021-Present)
+- Developed and maintained 5+ production React applications serving 100K+ users
+- Designed and implemented Node.js backend services with REST and GraphQL APIs
+- Improved application performance by optimizing bundle size and implementing lazy loading
+- Tech Stack: React, TypeScript, Node.js, PostgreSQL, AWS Lambda
+
+Frontend Developer, StartupIO (2019-2021)
+- Built responsive UI components using React and Material-UI
+- Reduced page load time by 50% through code splitting and optimization
+- Tech Stack: React, Redux, CSS, JavaScript, Jest
+
+EDUCATION
+Bachelor of Technology in Computer Science, Engineering College (2017)
+
+SKILLS
+Frontend: React, Vue.js, HTML5, CSS3, TypeScript, Redux
+Backend: Node.js, Express, Python, REST API, GraphQL
+Databases: PostgreSQL, MongoDB, Firebase
+DevOps: Docker, AWS, CI/CD, GitHub Actions

@@ -1,0 +1,17 @@
+Daniel Okafor
+Backend Engineer | 6 years of experience
+
+SUMMARY
+Backend Engineer focused on high-throughput APIs and event-driven services. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+Backend Engineer, Innovation Labs (2018-Present)
+- Delivered production systems for high-throughput APIs and event-driven services.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: Java, Spring, PostgreSQL, Kafka, Docker.
+
+EDUCATION
+BEng Computer Engineering
+
+SKILLS
+Java, Spring, PostgreSQL, Kafka, Docker

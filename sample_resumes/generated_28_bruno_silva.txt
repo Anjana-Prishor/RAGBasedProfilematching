@@ -1,0 +1,17 @@
+Bruno Silva
+Python Developer | 2 years of experience
+
+SUMMARY
+Python Developer focused on maintainable web services. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+Python Developer, Innovation Labs (2018-Present)
+- Delivered production systems for maintainable web services.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: Python, Django, PostgreSQL, REST API, Git.
+
+EDUCATION
+BSc Computer Science
+
+SKILLS
+Python, Django, PostgreSQL, REST API, Git

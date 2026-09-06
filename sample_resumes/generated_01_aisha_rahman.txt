@@ -1,0 +1,17 @@
+Aisha Rahman
+Machine Learning Engineer | 5 years of experience
+
+SUMMARY
+Machine Learning Engineer focused on recommendation systems and model deployment. Experienced in collaborating with product and engineering teams.
+
+EXPERIENCE
+Machine Learning Engineer, Innovation Labs (2018-Present)
+- Delivered production systems for recommendation systems and model deployment.
+- Improved reliability, quality, or delivery speed through automation and measurement.
+- Technical focus: Python, PyTorch, TensorFlow, NLP, AWS.
+
+EDUCATION
+MSc Computer Science
+
+SKILLS
+Python, PyTorch, TensorFlow, NLP, AWS

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ml_engineer",
+    "title": "Machine Learning Engineer",
+    "description": "Build and deploy machine learning models and production inference services.",
+    "required_skills": ["Python", "Machine Learning", "PyTorch", "AWS"],
+    "required_experience": 4,
+    "experience_level": "mid",
+    "nice_to_have_skills": ["Docker", "Kubernetes", "NLP"]
+  },
+  {
+    "id": "data_engineer",
+    "title": "Data Engineer",
+    "description": "Design scalable data pipelines, warehouse models, and quality checks.",
+    "required_skills": ["Python", "SQL", "Spark", "Airflow"],
+    "required_experience": 4,
+    "experience_level": "mid",
+    "nice_to_have_skills": ["Snowflake", "dbt", "AWS"]
+  },
+  {
+    "id": "cloud_platform",
+    "title": "Cloud Platform Engineer",
+    "description": "Automate secure cloud infrastructure and Kubernetes developer platforms.",
+    "required_skills": ["AWS", "Kubernetes", "Terraform", "Linux"],
+    "required_experience": 6,
+    "experience_level": "senior",
+    "nice_to_have_skills": ["Go", "Prometheus", "Docker"]
+  },
+  {
+    "id": "full_stack",
+    "title": "Full Stack Developer",
+    "description": "Build accessible web applications with React, Node APIs, and relational databases.",
+    "required_skills": ["React", "Node", "TypeScript", "PostgreSQL"],
+    "required_experience": 3,
+    "experience_level": "mid",
+    "nice_to_have_skills": ["GraphQL", "Docker", "AWS"]
+  },
+  {
+    "id": "security_engineer",
+    "title": "Cloud Security Engineer",
+    "description": "Protect cloud workloads through identity controls, monitoring, and incident response.",
+    "required_skills": ["AWS", "Python", "Linux", "SIEM"],
+    "required_experience": 5,
+    "experience_level": "mid",
+    "nice_to_have_skills": ["Azure", "IAM", "Threat Modeling"]
+  }
+]
